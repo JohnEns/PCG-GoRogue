@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCG-GoRogue.CSharp.Plugins", "PCG-GoRogue.CSharp.Plugins.csproj", "{8074B334-5D59-AC2C-9C50-89DB7229BF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCG-GoRogue.CSharp", "PCG-GoRogue.CSharp.csproj", "{F43CAF10-E39D-6C32-E821-D4DABD492784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8074B334-5D59-AC2C-9C50-89DB7229BF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8074B334-5D59-AC2C-9C50-89DB7229BF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8074B334-5D59-AC2C-9C50-89DB7229BF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8074B334-5D59-AC2C-9C50-89DB7229BF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43CAF10-E39D-6C32-E821-D4DABD492784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43CAF10-E39D-6C32-E821-D4DABD492784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43CAF10-E39D-6C32-E821-D4DABD492784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43CAF10-E39D-6C32-E821-D4DABD492784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
